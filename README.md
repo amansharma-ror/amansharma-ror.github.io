@@ -20,31 +20,22 @@ I am a Ruby on Rails developer with an experience of over 3+ years. I have hands
 ## Experience
 
 ### **RUBY ON RAILS || BACKEND DEVELOPER**
-### MIRO
+### CodeNote IT Solutions PVT. LTD
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Role & Responsibilities :- Development of new web applications, maintenance of existing web applications,create back-end components, connect the application with the other web services,extending and maintaining JSON and Liquid-based APIs
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Jr. Ruby on Rails DEVELOPER**
+### Ryientsoft Technologies PVT LTD
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
----
+Role & Responsibilities :- Development of new web applications, maintenance of existing web applications,create back-end components, connect the application with the other web services,extending and maintaining JSON and Liquid-based APIs
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Govt Polytechnic Kashipur Uttarakhand**
+### Diploma in Computer Science & Engineering (2016- 2019)
+Percentage: 75.4%
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
 I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
