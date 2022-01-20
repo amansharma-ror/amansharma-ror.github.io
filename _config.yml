@@ -1,0 +1,11 @@
+title: Aman Sharma
+logo: "/DP.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Backend Engineer || Ruby on Rails
+  <br/><br/>
+  <a href="mailto:amansharma.ror@gmail.com">amansharma.ror@gmail.com </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/aman-sharma-401a79184/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/aman-s18">Gihub</a> 
+theme: jekyll-theme-minimal
